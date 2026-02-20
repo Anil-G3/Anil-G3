@@ -1,25 +1,55 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=ANIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20Specialist%20%7C%20System%20Builder&descAlignY=60&descAlign=50"/>
-</p>
+# Anil
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Backends;Turning+Logic+Into+Systems;Java+%7C+Spring+Boot+%7C+SQL;Future+Software+Architect" />
-</p>
+> Backend Engineer in the making.  
+> I build systems, not just code.
 
 ---
 
-## 🧠 Engineer Mindset
+## Philosophy
 
-```java
-class BackendEngineer {
+I believe backend development is not about writing APIs.
+It is about designing systems that scale, survive, and perform.
 
-    String name = "Anil";
-    String role = "Backend Developer";
-    String expertise = "System Design & API Architecture";
+Clean architecture.  
+Readable code.  
+Reliable systems.
 
-    void build() {
-        System.out.println("I build scalable, secure and efficient systems.");
-    }
-}
+---
+
+## What I Work With
+
+Java  
+Spring Boot  
+REST APIs  
+SQL  
+Git  
+
+Currently exploring system design and backend architecture patterns.
+
+---
+
+## Current Mission
+
+- Strengthening core Java fundamentals  
+- Building production-style backend projects  
+- Understanding performance & scalability  
+- Becoming industry-ready as a backend engineer  
+
+---
+
+## Selected Work
+
+(Projects will live here soon.)
+
+Every repository represents a step forward.
+
+---
+
+## Contact
+
+LinkedIn: your-link  
+Email: your-email  
+
+---
+
+_"Great systems are built quietly."_
