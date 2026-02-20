@@ -1,62 +1,25 @@
-<div align="center">
-
-<br />
+<!-- Animated Header -->
 <p align="center">
-  <a href="https://github.com/your-username/repo-name">
-    <img src="https://raw.githubusercontent.com/username/repo/main/assets/logo.png" alt="Logo" width="120" height="120">
-  </a>
-
-  <h1 align="center">Project Name 💎</h1>
-
-  <p align="center">
-    <b>The enterprise-grade solution for [Industry/Problem].</b>
-    <br />
-    <a href="https://docs.yourproject.com"><strong>Explore the Docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://demo.yourproject.com">View Demo</a>
-    ·
-    <a href="https://github.com/username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/username/repo/issues">Request Feature</a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=ANIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20Specialist%20%7C%20System%20Builder&descAlignY=60&descAlign=50"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/username/repo?style=for-the-badge&color=7C3AED" alt="Release" />
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge&color=7C3AED" alt="Stars" />
-  <img src="https://img.shields.io/github/workflow/status/username/repo/CI?style=for-the-badge&color=7C3AED" alt="Build Status" />
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge&color=7C3AED" alt="License" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Backends;Turning+Logic+Into+Systems;Java+%7C+Spring+Boot+%7C+SQL;Future+Software+Architect" />
 </p>
 
-</div>
-
 ---
 
-### 🏛️ Architecture & Philosophy
-> "Simplicity is the ultimate sophistication." 
-> 
-> Most tools fail because they are over-engineered. **Project Name** is built on the principle of **Invisible Complexity**. We handle the heavy lifting, you handle the creative logic.
+## 🧠 Engineer Mindset
 
----
+```java
+class BackendEngineer {
 
-### 💎 Premium Features
+    String name = "Anil";
+    String role = "Backend Developer";
+    String expertise = "System Design & API Architecture";
 
-| Feature | Description | Benefit |
-| :--- | :--- | :--- |
-| **Atomic Design** | Modular components that scale infinitely. | Consistency & Speed |
-| **Edge-First** | Deployed globally at the edge for <10ms latency. | User Retention |
-| **Deep Telemetry** | Native observability with zero-config setup. | 24/7 Reliability |
-
----
-
-### 💻 Developer Experience (DX)
-
-Installation should take seconds, not hours.
-
-```bash
-# Install the CLI globally
-curl -sSL [https://get.project.sh](https://get.project.sh) | sh
-
-# Initialize your first production-ready cluster
-project-cli init --premium
+    void build() {
+        System.out.println("I build scalable, secure and efficient systems.");
+    }
+}
