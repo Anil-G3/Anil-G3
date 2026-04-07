@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/anil-kumar-g-79963137b">
+  <a href="https://www.linkedin.com/in/anil-kumar-g-79963137b">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
