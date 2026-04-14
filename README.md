@@ -1,110 +1,148 @@
 <div align="center">
 
-# Hey, I'm Anil Kumar G 👋
+```
+╔══════════════════════════════════════════════════════╗
+║        G. ANIL KUMAR — JAVA FULL-STACK DEV          ║
+║          Backend · Spring Boot · MySQL               ║
+╚══════════════════════════════════════════════════════╝
+```
 
-**Java Full-Stack Developer · Backend Focused · Open to Work**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-g-79963137b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-G3)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar.th20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-g-79963137b)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anilkumar.th20@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-F5C518?style=flat-square&logo=google-chrome&logoColor=black)](#)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square)
 
 </div>
 
----
+<br/>
 
-## About Me
+```java
+public class AnilKumarG {
 
-I'm a B.Tech graduate passionate about building robust backend systems with Java and Spring Boot. I enjoy designing clean RESTful APIs, working with relational databases, and writing maintainable, scalable code.
+    String role     = "Java Full-Stack Developer";
+    String focus    = "Backend Development";
+    String degree   = "B.Tech (2021–2025)";
+    String location = "Andhra Pradesh, India";
 
-- 🎓 B.Tech — Siddarth Institute of Engineering & Technology, Puttur (2021–2025)
-- 💼 Actively looking for full-time roles and internships
-- 🔭 Currently building full-stack projects with Spring Boot + React
-- 🌱 Always improving my system design and backend architecture skills
-- 📍 Based in Andhra Pradesh, India
+    String[] currentlyDoing = {
+        "Building REST APIs with Spring Boot",
+        "Improving system design skills",
+        "Open to full-time roles & internships"
+    };
+}
+```
 
----
+<br/>
 
-## Tech Stack
+## ⚡ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 **Backend**
+```
+Java              ████████████  Primary
+Spring Boot       ███████████░  Strong
+Spring Security   █████████░░░  Good
+Spring Data JPA   █████████░░░  Good
+Hibernate         ████████░░░░  Good
+REST APIs         ███████████░  Strong
+JWT               ████████░░░░  Good
+JDBC              ████████░░░░  Good
+```
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  </td>
+    <td valign="top" width="50%">
 
-**Frontend**
+**Frontend & Tools**
+```
+JavaScript        ████████░░░░  Good
+React JS          ██████░░░░░░  Familiar
+HTML5 & CSS3      █████████░░░  Good
+MySQL             ████████████  Primary DB
+Git & GitHub      █████████░░░  Good
+Postman           █████████░░░  Good
+Maven             ████████░░░░  Good
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  </td>
+  </tr>
+</table>
 
-**Database**
+<br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 🛠 Projects
 
-**Tools**
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+### 🛒 HoneyCart
+**E-Commerce Platform**
 
----
+`Java` `Spring Boot` `React JS` `MySQL` `JWT` `Razorpay`
 
-## Projects
+- Role-based auth — Admin & Customer flows
+- Full payment lifecycle via Razorpay gateway
+- Cart, orders, and optimized MySQL schemas
+- Responsive React frontend
 
-### 🛒 HoneyCart — E-Commerce Platform
-> Java · Spring Boot · React JS · MySQL · Razorpay · JWT
+*Jan 2026 – Mar 2026*
 
-A full-stack e-commerce application with role-based access for Admins and Customers, integrated Razorpay payment gateway, complete cart and order management, and a responsive React frontend backed by optimized MySQL schemas.
+  </td>
+    <td width="50%" valign="top">
 
-**Jan 2026 – Mar 2026**
+### ✅ PlanPilot
+**Task Manager App**
 
----
+`React JS` `localStorage` `GitHub Pages`
 
-### ✅ PlanPilot — Task Manager
-> React JS · localStorage · GitHub Pages
+- Add, delete, complete & undo tasks
+- Real-time progress tracking
+- Persists data across page refreshes
+- Deployed live on GitHub Pages
 
-A responsive task management app with real-time progress tracking, add/delete/complete/undo functionality, and localStorage persistence across sessions. Deployed live on GitHub Pages.
+*Mar 2026 – Apr 2026*
 
-**Mar 2026 – Apr 2026** · [Live Demo](https://anil-g3.github.io/PlanPilot)
+  </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## Certifications
+## 📜 Certifications
 
-| Certificate | Issuer | Period |
-|---|---|---|
-| Full Stack Development | KodNest Technologies | May 2025 – Feb 2026 |
-| Java Programming | The Website Makers | Nov – Dec 2023 |
-| Embedded Software | ProgMaster Pvt Ltd | Sep – Oct 2024 |
-| Industry 4.0 & IIoT | IIT Kharagpur · NPTEL | Jul – Oct 2024 |
+```
+  Full Stack Development    →  KodNest Technologies      May 2025 – Feb 2026
+  Java Programming          →  The Website Makers        Nov – Dec 2023
+  Embedded Software         →  ProgMaster Pvt Ltd        Sep – Oct 2024
+  Industry 4.0 & IIoT       →  IIT Kharagpur · NPTEL     Jul – Oct 2024
+```
 
----
+<br/>
 
-## GitHub Stats
+## 🎓 Education
+
+```
+  B.Tech    →  Siddarth Inst. of Engg. & Tech., Puttur   2021–2025   CGPA: 6.66
+  Inter     →  Himaja Junior College, Puttur              2019–2021   84%
+  SSC       →  Vasista Vidhyalaya School, Nagari          2019        CGPA: 9.00
+```
+
+<br/>
 
 <div align="center">
 
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&title_color=C49A00&icon_color=C49A00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&hide_border=true&title_color=C49A00)
-
-</div>
-
----
-
-<div align="center">
-
-📬 **anilkumar.th20@gmail.com** · 📞 **+91 70137 26407**
-
-*Open to full-time roles, internships, and exciting collaborations.*
+```
+╔═══════════════════════════════════════════════╗
+║   📬  anilkumar.th20@gmail.com               ║
+║   📞  +91 70137 26407                        ║
+║   💼  Available for full-time & internships   ║
+╚═══════════════════════════════════════════════╝
+```
 
 </div>
