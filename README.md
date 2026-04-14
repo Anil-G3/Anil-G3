@@ -1,11 +1,10 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║        G. ANIL KUMAR — JAVA FULL-STACK DEV          ║
-║          Backend · Spring Boot · MySQL               ║
-╚══════════════════════════════════════════════════════╝
-```
+# G. Anil Kumar
+
+### Java Full-Stack Developer
+
+> *"I don't just write code — I build systems that work."*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-g-79963137b)
 &nbsp;
@@ -17,25 +16,44 @@
 
 </div>
 
-<br/>
+---
 
 ```java
-public class AnilKumarG {
+/**
+ * Hi there! I'm Anil — a backend-focused developer
+ * who loves turning ideas into reliable, scalable systems.
+ */
+@Developer
+public class AnilKumarG implements ProblemSolver, TeamPlayer {
 
-    String role     = "Java Full-Stack Developer";
-    String focus    = "Backend Development";
-    String degree   = "B.Tech (2021–2025)";
-    String location = "Andhra Pradesh, India";
+    // Who I am
+    private final String name     = "G. Anil Kumar";
+    private final String role     = "Java Full-Stack Developer";
+    private final String location = "Andhra Pradesh, India";
+    private final String degree   = "B.Tech · 2021–2025";
 
-    String[] currentlyDoing = {
-        "Building REST APIs with Spring Boot",
-        "Improving system design skills",
-        "Open to full-time roles & internships"
+    // What drives me
+    private final String[] passions = {
+        "Designing clean, maintainable REST APIs",
+        "Learning system design & architecture",
+        "Writing backend code that actually scales"
     };
+
+    // What I bring to a team
+    private final String[] strengths = {
+        "Strong Java & Spring Boot foundation",
+        "Attention to code quality and structure",
+        "Eager to learn, quick to deliver"
+    };
+
+    // Right now
+    public String currentStatus() {
+        return "Open to full-time roles & internships — let's build something!";
+    }
 }
 ```
 
-<br/>
+---
 
 ## ⚡ Tech Stack
 
@@ -73,7 +91,7 @@ Maven             ████████░░░░  Good
   </tr>
 </table>
 
-<br/>
+---
 
 ## 🛠 Projects
 
@@ -112,7 +130,7 @@ Maven             ████████░░░░  Good
   </tr>
 </table>
 
-<br/>
+---
 
 ## 📜 Certifications
 
@@ -123,7 +141,7 @@ Maven             ████████░░░░  Good
   Industry 4.0 & IIoT       →  IIT Kharagpur · NPTEL     Jul – Oct 2024
 ```
 
-<br/>
+---
 
 ## 🎓 Education
 
@@ -133,7 +151,7 @@ Maven             ████████░░░░  Good
   SSC       →  Vasista Vidhyalaya School, Nagari          2019        CGPA: 9.00
 ```
 
-<br/>
+---
 
 <div align="center">
 
