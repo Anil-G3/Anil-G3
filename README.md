@@ -1,155 +1,110 @@
-<h1 align="center">Hi 👋, I'm Anil Kumar G</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL | B.Tech 2025</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Full+Stack+Certified+%7C+Open+to+Work!" alt="Typing SVG" />
-</p>
+# Hey, I'm Anil Kumar G 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/anil-kumar-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anil-G3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Java Full-Stack Developer · Backend Focused · Open to Work**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-g-79963137b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-G3)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar.th20@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Graduate (2025) from **Siddarth Institute of Engineering & Technology, Puttur**
-- 💡 Passionate about **Java Backend Development** — building scalable REST APIs and secure systems
-- 🛠️ Completed a **Full Stack Development course** (KodNest) — strong in both backend & frontend
-- 🔭 Currently working on enhancing **HoneyCart** — a modular e-commerce platform
-- 🌱 Learning **System Design**, **Spring Security**, and **Docker**
-- 👀 Actively looking for **Java Backend Developer / Software Engineer** roles
-- 📍 Based in **Nagari, Chittoor District, Andhra Pradesh, India**
+I'm a B.Tech graduate passionate about building robust backend systems with Java and Spring Boot. I enjoy designing clean RESTful APIs, working with relational databases, and writing maintainable, scalable code.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🎓 B.Tech — Siddarth Institute of Engineering & Technology, Puttur (2021–2025)
+- 💼 Actively looking for full-time roles and internships
+- 🔭 Currently building full-stack projects with Spring Boot + React
+- 🌱 Always improving my system design and backend architecture skills
+- 📍 Based in Andhra Pradesh, India
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🛒 HoneyCart — Modular E-Commerce Platform
-> A production-grade full-stack e-commerce application
+**Backend**
 
-| | |
-|---|---|
-| **Backend** | Java, Spring Boot, REST APIs, JWT Auth, Razorpay |
-| **Frontend** | React JS |
-| **Database** | MySQL |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Highlights:**
-- 🔐 JWT-based authentication with role-based access control (Admin & Customer)
-- 🏗️ Modular architecture with 6 independent service modules
-- 💳 Razorpay payment gateway integration
-- 🛡️ Password hashing, data validation & session security
-- 📦 RESTful APIs for product, cart, order & payment lifecycle
+**Frontend**
 
-[![Backend Repo](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-G3)
-[![Frontend Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-G3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+**Database**
 
-### ✅ PlanPilot — Task Management Application
-> A fully responsive React-based productivity app
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-| | |
-|---|---|
-| **Frontend** | React JS, JavaScript |
-| **Storage** | localStorage |
-| **Deployment** | GitHub Pages / Netlify |
+**Tools**
 
-**Highlights:**
-- 📊 Visual progress tracker with real-time task completion %
-- 💾 Persistent storage using localStorage
-- 📋 Task History — view, restore & delete completed tasks
-- ✅ Input validation to prevent empty/duplicate entries
-- 📱 Fully responsive — works on desktop, tablet & mobile
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-G3)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/Anil-G3)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+### 🛒 HoneyCart — E-Commerce Platform
+> Java · Spring Boot · React JS · MySQL · Razorpay · JWT
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil-G3&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+A full-stack e-commerce application with role-based access for Admins and Customers, integrated Razorpay payment gateway, complete cart and order management, and a responsive React frontend backed by optimized MySQL schemas.
+
+**Jan 2026 – Mar 2026**
 
 ---
 
-## 🏆 Certifications
+### ✅ PlanPilot — Task Manager
+> React JS · localStorage · GitHub Pages
 
-- 🎓 **Full Stack Development** — KodNest
-- 📜 **Industrial Training Certificate** — Siddarth Institute of Engineering & Technology
+A responsive task management app with real-time progress tracking, add/delete/complete/undo functionality, and localStorage persistence across sessions. Deployed live on GitHub Pages.
 
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  I'm actively looking for <strong>Java Backend Developer</strong> roles.<br/>
-  Feel free to reach out — I'm always open to opportunities and collaborations!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anil-kumar-g-79963137b">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Mar 2026 – Apr 2026** · [Live Demo](https://anil-g3.github.io/PlanPilot)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anil-G3&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## Certifications
 
-<p align="center">⭐️ <i>If you like my projects, consider giving them a star!</i> ⭐️</p>
+| Certificate | Issuer | Period |
+|---|---|---|
+| Full Stack Development | KodNest Technologies | May 2025 – Feb 2026 |
+| Java Programming | The Website Makers | Nov – Dec 2023 |
+| Embedded Software | ProgMaster Pvt Ltd | Sep – Oct 2024 |
+| Industry 4.0 & IIoT | IIT Kharagpur · NPTEL | Jul – Oct 2024 |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&title_color=C49A00&icon_color=C49A00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&hide_border=true&title_color=C49A00)
+
+</div>
+
+---
+
+<div align="center">
+
+📬 **anilkumar.th20@gmail.com** · 📞 **+91 70137 26407**
+
+*Open to full-time roles, internships, and exciting collaborations.*
+
+</div>
