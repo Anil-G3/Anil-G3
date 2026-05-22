@@ -47,9 +47,9 @@ A backend-heavy recommender that actually computes recommendations — not just 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anil-G3&hide_border=true)
+👉 [github.com/Anil-G3](https://github.com/Anil-G3)
 
 ---
 
