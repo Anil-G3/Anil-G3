@@ -1,166 +1,72 @@
-<div align="center">
+# Hey, I'm Anil 👋
 
-# G. Anil Kumar
+I'm a **Java Developer** from Andhra Pradesh, India — fresh out of B.Tech (2025) and obsessed with building backend systems that are clean, secure, and actually work under pressure.
 
-### Java Full-Stack Developer
+My sweet spot is **Spring Boot + REST APIs + MySQL**. I don't just plug libraries together — I think about schema design, API contracts, security flows, and how things break when real users hit them.
 
-> *"I don't just write code — I build systems that work."*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-g-79963137b)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anilkumar.th20@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F5C518?style=flat-square&logo=google-chrome&logoColor=black)](https://portfolio-anil-20.netlify.app/)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-22c55e?style=flat-square)
-
-</div>
+Currently **open to fresher roles** where I can ship real code and grow fast.
 
 ---
 
-```java
-/**
- * Hi there! I'm Anil — a backend-focused developer
- * who loves turning ideas into reliable, scalable systems.
- */
-@Developer
-public class AnilKumarG implements ProblemSolver, TeamPlayer {
+## 🔧 What I Work With
 
-    // Who I am
-    private final String name     = "G. Anil Kumar";
-    private final String role     = "Java Full-Stack Developer";
-    private final String location = "Andhra Pradesh, India";
-    private final String degree   = "B.Tech · 2021–2025";
-
-    // What drives me
-    private final String[] passions = {
-        "Designing clean, maintainable REST APIs",
-        "Learning system design & architecture",
-        "Writing backend code that actually scales"
-    };
-
-    // What I bring to a team
-    private final String[] strengths = {
-        "Strong Java & Spring Boot foundation",
-        "Attention to code quality and structure",
-        "Eager to learn, quick to deliver"
-    };
-
-    // Right now
-    public String currentStatus() {
-        return "Open to full-time roles & internships — let's build something!";
-    }
-}
-```
+**Core:** Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · JDBC  
+**APIs & Auth:** REST APIs · JWT · Razorpay Integration  
+**Frontend (enough to be useful):** HTML · CSS · JavaScript · React JS  
+**Database:** MySQL  
+**Tooling:** Git · Maven · Docker · Postman · VS Code · Eclipse  
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### [HoneyCart](https://github.com/Anil-G3/honeycart) — Modular E-Commerce Platform
+`Java` `Spring Boot` `Spring Security` `JWT` `Razorpay` `MySQL` `React JS`
 
-**Backend**
-```
-Java              ████████████  Primary
-Spring Boot       ███████████░  Strong
-Spring Security   █████████░░░  Good
-Spring Data JPA   █████████░░░  Good
-Hibernate         ████████░░░░  Good
-REST APIs         ███████████░  Strong
-JWT               ████████░░░░  Good
-JDBC              ████████░░░░  Good
-```
+A full-stack e-commerce backend built the right way — not just CRUD, but real auth, real payments, real structure.
 
-  </td>
-    <td valign="top" width="50%">
-
-**Frontend & Tools**
-```
-JavaScript        ████████░░░░  Good
-React JS          ██████░░░░░░  Familiar
-HTML5 & CSS3      █████████░░░  Good
-MySQL             ████████████  Primary DB
-Git & GitHub      █████████░░░  Good
-Postman           █████████░░░  Good
-Maven             ████████░░░░  Good
-```
-
-  </td>
-  </tr>
-</table>
+- Designed and implemented **JWT-based role authentication** with Spring Security — separate access flows for Admin and Customer, with protected endpoints enforced at the filter level
+- Built a complete set of **RESTful APIs** covering products, cart, orders, and payments — designed with consistent response structure and proper HTTP semantics
+- Integrated **Razorpay payment gateway** end-to-end: order creation, payment capture, and webhook-ready architecture
+- Designed the **MySQL schema** with normalized relationships, indexing on frequently queried fields, and foreign key constraints — not just tables, but a thought-out data model
 
 ---
 
-## 🛠 Projects
+### [CineMatch](https://github.com/Anil-G3/cinematch) — Movie Recommender System
+`Java` `Spring Boot` `JWT` `MySQL` `HTML` `CSS` `JS`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+A backend-heavy recommender that actually computes recommendations — not just a list app.
 
-### 🛒 HoneyCart
-**E-Commerce Platform**
-
-`Java` `Spring Boot` `React JS` `MySQL` `JWT` `Razorpay`
-
-- Role-based auth — Admin & Customer flows
-- Full payment lifecycle via Razorpay gateway
-- Cart, orders, and optimized MySQL schemas
-- Responsive React frontend
-
-*Jan 2026 – Mar 2026*
-
-  </td>
-    <td width="50%" valign="top">
-
-### ✅ PlanPilot
-**Task Manager App**
-
-`React JS` `localStorage` `GitHub Pages`
-
-- Add, delete, complete & undo tasks
-- Real-time progress tracking
-- Persists data across page refreshes
-- Deployed live on GitHub Pages
-
-*Mar 2026 – Apr 2026*
-
-  </td>
-  </tr>
-</table>
+- Built a **content-based recommendation engine** that analyses user rating patterns to surface relevant movies — designed the algorithm logic from scratch in Java
+- Implemented **Spring Security + JWT** for session-less, stateless auth — tokens issued at login, validated on every protected route
+- Designed a **normalised MySQL schema** across Movies, Genres, Users, Ratings, and Watchlist tables — carefully modelled many-to-many relationships with junction tables
+- Added **real-time watchlist updates** and **email notification triggers** for user activity events
+- Fully separate modules for Rating, Watchlist, and Profile — clean separation of concerns throughout
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Activity
 
-```
-  Full Stack Development    →  KodNest Technologies      May 2025 – Feb 2026
-  Java Programming          →  The Website Makers        Nov – Dec 2023
-  Embedded Software         →  ProgMaster Pvt Ltd        Sep – Oct 2024
-  Industry 4.0 & IIoT       →  IIT Kharagpur · NPTEL     Jul – Oct 2024
-```
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 🎓 Education
+## 🎓 A Bit More About Me
 
-```
-  B.Tech    →  Siddarth Inst. of Engg. & Tech., Puttur   2021–2025   CGPA: 6.66
-  Inter     →  Himaja Junior College, Puttur              2019–2021   84%
-  SSC       →  Vasista Vidhyalaya School, Nagari          2019        CGPA: 9.00
-```
+- 🏅 **NPTEL Certified** — Industry 4.0 & IIoT · IIT Kharagpur (2024)
+- 🏆 **Won** Paper Presentation at Siddharth Quest-2K25 (March 2025)
+- 📚 Currently going deeper into **system design** and **microservices patterns**
+- ⚙️ Experimenting with **Docker** for containerising my Spring Boot apps
 
 ---
 
-<div align="center">
+## 📬 Let's Connect
 
-```
-╔═══════════════════════════════════════════════╗
-║   📬  anilkumar.th20@gmail.com               ║
-║   📞  +91 70137 26407                        ║
-║   💼  Available for full-time & internships   ║
-╚═══════════════════════════════════════════════╝
-```
+If you're hiring Java developers at the fresher level, or just want to talk backend — I'm easy to reach.
 
-</div>
+**Email:** anilkumar.th20@gmail.com  
+**LinkedIn:** [linkedin.com/in/anil-g3](https://linkedin.com/in/anil-g3)  
+**Portfolio:** [portfolio-anil-20.netlify.app](https://portfolio-anil-20.netlify.app)
+
+> I respond fast. No HR scripts — just a straight conversation.
