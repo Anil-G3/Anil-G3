@@ -20,7 +20,9 @@ Currently **open to fresher roles** where I can ship real code and grow fast.
 
 ## 🚀 Projects
 
-### [HoneyCart](https://github.com/Anil-G3/honeycart) — Modular E-Commerce Platform
+### [HoneyCart](https://github.com/Anil-G3/HoneyCart-Backend) — Modular E-Commerce Platform
+[Backend](https://github.com/Anil-G3/HoneyCart-Backend) · [Frontend](https://github.com/Anil-G3/HoneyCart-Frontend)
+
 `Java` `Spring Boot` `Spring Security` `JWT` `Razorpay` `MySQL` `React JS`
 
 A full-stack e-commerce backend built the right way — not just CRUD, but real auth, real payments, real structure.
@@ -32,7 +34,7 @@ A full-stack e-commerce backend built the right way — not just CRUD, but real 
 
 ---
 
-### [CineMatch](https://github.com/Anil-G3/cinematch) — Movie Recommender System
+### [CineMatch](https://github.com/Anil-G3/CineMatch) — Movie Recommender System
 `Java` `Spring Boot` `JWT` `MySQL` `HTML` `CSS` `JS`
 
 A backend-heavy recommender that actually computes recommendations — not just a list app.
@@ -48,6 +50,7 @@ A backend-heavy recommender that actually computes recommendations — not just 
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anil-G3&hide_border=true)
+
 ---
 
 ## 🎓 A Bit More About Me
