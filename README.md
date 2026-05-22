@@ -47,9 +47,9 @@ A backend-heavy recommender that actually computes recommendations — not just 
 
 ## 📊 GitHub Activity
 
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&theme=default&hide_border=true)
+![Anil's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anil-G3&show_icons=true&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&hide_border=true)
 ---
 
 ## 🎓 A Bit More About Me
