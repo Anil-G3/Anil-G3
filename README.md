@@ -98,12 +98,6 @@ A backend-heavy recommender that actually computes recommendations — not just 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&icon_color=0e75b6" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&theme=default&hide_border=true&title_color=0e75b6" />
-
-</div>
 
 <div align="center">
 
