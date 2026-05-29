@@ -98,18 +98,11 @@ A backend-heavy recommender that actually computes recommendations — not just 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=333)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anil-G3&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0e75b6&icon_color=0e75b6" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&theme=default&hide_border=true&title_color=0e75b6" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-G3&layout=compact&hide_border=true&title_color=0e75b6)
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](./streak-stats.svg)
-
-</div>
+![Streak](https://streak-stats.demolab.com?user=Anil-G3&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
 
 ---
 
