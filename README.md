@@ -66,7 +66,7 @@ My sweet spot is **Spring Boot + REST APIs + MySQL**. I don't just plug librarie
 
 ### 🛒 [HoneyCart](https://github.com/Anil-G3/HoneyCart-Backend) — Modular E-Commerce Platform
 
-> `Java` `Spring Boot` `Spring Security` `JWT` `Razorpay` `MySQL` `React JS`
+> `Java` `Spring Boot` `JWT` `Razorpay` `MySQL` `React JS`
 
 [🔗 Backend Repo](https://github.com/Anil-G3/HoneyCart-Backend) · [🔗 Frontend Repo](https://github.com/Anil-G3/HoneyCart-Frontend)
 
