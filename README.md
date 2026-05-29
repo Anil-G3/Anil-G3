@@ -4,7 +4,7 @@
 
 **Java Developer · Backend Engineer · API Craftsman**
 
-*Fresh B.Tech graduate from Andhra Pradesh, India — obsessed with building backend systems that are clean, secure, and hold up under real pressure.*
+*Obsessed with building backend systems that are clean, secure, and hold up under real pressure.*
 
 [![Email](https://img.shields.io/badge/Email-anilkumar.th20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anilkumar.th20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anil--g3-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-g3)
@@ -96,7 +96,7 @@ A backend-heavy recommender that actually computes recommendations — not just 
 
 ---
 
-> 🔥 **Current Streak:** Active contributor — pushing code regularly since Feb 2025
+> 🔥 **Current Streak:** Active contributor — pushing code regularly since 2025
 
 ---
 
