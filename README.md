@@ -21,7 +21,7 @@
 
 My sweet spot is **Spring Boot + REST APIs + MySQL**. I don't just plug libraries together — I think about schema design, API contracts, security flows, and how things break when real users hit them.
 
-- 🔭 Currently building: **HoneyCart** (E-Commerce) & **CineMatch** (Movie Recommender)
+- 🔭 Projects Built: **HoneyCart** (E-Commerce) & **CineMatch** (Movie Recommender)
 - 📖 Going deeper into: **System Design** & **Microservices Patterns**
 - ⚙️ Experimenting with: **Docker** for containerising Spring Boot apps
 - 💼 **Open to fresher roles** — ready to ship real code and grow fast
